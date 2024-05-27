@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="kitkat.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="idle" x="0" y="484" width="724" height="484" frameX="2" frameY="2" frameWidth="720" frameHeight="480"/>
+	<SubTexture name="right" x="1448" y="0" width="724" height="484" frameX="2" frameY="2" frameWidth="720" frameHeight="480"/>
+	<SubTexture name="up" x="724" y="484" width="724" height="484" frameX="2" frameY="2" frameWidth="720" frameHeight="480"/>
+	<SubTexture name="left" x="0" y="0" width="724" height="484" frameX="2" frameY="2" frameWidth="720" frameHeight="480"/>
+	<SubTexture name="down" x="724" y="0" width="724" height="484" frameX="2" frameY="2" frameWidth="720" frameHeight="480"/>
+</TextureAtlas>
